@@ -1,0 +1,9 @@
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\bin\Debug\Fantastic Browser.exe.config
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\bin\Debug\Fantastic Browser.exe
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\bin\Debug\Fantastic Browser.pdb
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\obj\Debug\Fantastic Browser.csprojAssemblyReference.cache
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\obj\Debug\Fantastic_Browser.Form1.resources
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\obj\Debug\Fantastic_Browser.Properties.Resources.resources
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\obj\Debug\Fantastic Browser.csproj.GenerateResource.cache
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\obj\Debug\Fantastic Browser.exe
+C:\Users\valik\Desktop\own_browser\Fantastic Browser\Fantastic Browser\obj\Debug\Fantastic Browser.pdb
